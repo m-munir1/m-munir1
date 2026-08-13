@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-Generative AI Engineer and Python Developer specializing in LLM-based applications, RAG systems, and AI Agents. I design and deploy intelligent automation systems and scalable software solutions across healthcare, eCommerce, SaaS, fintech, and enterprise domains. I've delivered 20+ AI and software solutions while collaborating with international clients across the UK, USA, the Middle East, and global markets. I hold a background in Computer Science and am completing an MSc in Management with Data Analytics at BPP University London.
+I'm an AI Engineer specializing in building custom AI solutions, intelligent agent development, and end-to-end deployment for real-world business automation. I design and ship LLM-based applications, RAG systems, and autonomous AI agents that streamline operations and solve complex business problems across healthcare, eCommerce, SaaS, fintech, and enterprise domains. I've delivered 20+ AI and software solutions while collaborating with international clients across the UK, USA, the Middle East, and global markets, taking projects from concept through production deployment.
 
 ---
 
@@ -57,40 +57,6 @@ Generative AI Engineer and Python Developer specializing in LLM-based applicatio
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-### 💼 Experience
-
-**Generative AI Engineer** — *PlomX Tech (Contract, Part-time)* — Jun 2025 – Present
-- Delivered scoped AI/automation tasks and AI-agent proof-of-concepts for an enterprise client on a part-time basis alongside MSc study.
-- Built and maintained LLM/RAG features and n8n automation workflows for targeted client requests.
-- Represented PlomX Tech at LEAP, Web Summit Qatar, and London Tech Week — running client meetings and generating new business.
-
-**Generative AI Engineer | Python Developer** — *PlomX Tech* — Sep 2022 – May 2025
-- Designed and implemented 15+ AI-powered applications using LLMs, RAG, AI Agents, LangChain, LangGraph, OpenAI, and Gemini APIs.
-- Built intelligent automation solutions that cut manual business processes by 40–50% via AI workflows and automated decision systems.
-- Developed scalable Python backends with FastAPI, Django, PostgreSQL, Redis, and vector databases for enterprise applications.
-- Integrated ML/NLP models into production systems, improving data processing and enabling AI-driven insights.
-- Delivered solutions across healthcare, e-commerce, SaaS, fintech, and enterprise domains for 30+ international clients.
-- Implemented cloud deployments using AWS, Azure, Docker, and CI/CD pipelines.
-
-**Software Engineer** — *Nextbridge Ltd.* — Aug 2021 – Jul 2022
-- Developed Python-based healthcare applications, managing backend services, APIs, and secure data workflows.
-- Integrated machine learning models and analytics pipelines into production applications.
-- Built Amazon/eCommerce data automation tools for sales trend and performance monitoring.
-- Managed AWS infrastructure (S3, EC2) and cloud deployment environments.
-
-**Software Engineer** — *Freshy* — May 2020 – Dec 2020
-- Worked as a Full Stack Developer across multiple applications.
-- Developed Python backend services and REST APIs, deployed with Docker.
-
----
-
-### 🎓 Education
-
-- **MSc, Management with Data Analytics** — BPP University, London (Jun 2025 – Jul 2026)
-- **BSc, Computer Science** — Lahore Garrison University (2017 – 2021)
 
 ---
 
